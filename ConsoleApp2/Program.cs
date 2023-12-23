@@ -1,5 +1,2 @@
-﻿using ConsoleApp2;
-
-GetPosts posts = new GetPosts();
-            
-await posts.GetPostsAsync();
+﻿var a = Convert.ToString(10, 2);
+Console.WriteLine(a);
