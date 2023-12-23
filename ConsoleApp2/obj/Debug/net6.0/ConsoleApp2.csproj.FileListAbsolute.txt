@@ -1,0 +1,17 @@
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.deps.json
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.runtimeconfig.json
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.dll
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.pdb
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.AssemblyReference.cache
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfo.cs
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.CopyComplete
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.dll
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/refint/ConsoleApp2.dll
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.pdb
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.genruntimeconfig.cache
+/Users/semensavcenko/Documents/5 семестр/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ref/ConsoleApp2.dll
