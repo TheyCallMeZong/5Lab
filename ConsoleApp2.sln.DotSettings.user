@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5df09b6f_002Daaa5_002D4304_002D9204_002D2306d2c19c29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.TestDecimalToBinary_One_ExpectedOne&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.TestDecimalToBinary_Ten_ExpectedOneZeroOneZeroOneZero&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.TestDecimalToBinary_Hundred_ExpectedZeroOneZeroZeroZeroOneZero&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.TestDecimalToBinary_NegativeOne_ExpectedNegativeBinary&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.TestIsEven_Zero_ExpectedTrue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.TestIsEven_Two_ExpectedTrue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::86ECABCD-1798-4E9E-A2F7-3D6C761DA239::net6.0::TestProject1.Tests.TestIsEven_Three_ExpectedFalse&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::9567943A-EA9A-40E2-9671-A01909855C7F::net6.0::TestProject2.Tests.TestIsEven_Zero_ExpectedTrue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::9567943A-EA9A-40E2-9671-A01909855C7F::net6.0::TestProject2.Tests.TestIsEven_Two_ExpectedTrue&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::9567943A-EA9A-40E2-9671-A01909855C7F::net6.0::TestProject2.Tests.TestIsEven_Three_ExpectedFalse&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
